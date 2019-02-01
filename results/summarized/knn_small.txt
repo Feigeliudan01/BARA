@@ -1,0 +1,11 @@
+""	Mean	Stdev	output
+BARA	0.82	0.236	0.82 ± 0.24
+Combat	0.733	0.293	0.73 ± 0.29
+FAbatch	0.649	0.227	0.65 ± 0.23
+fSVA exact	0.786	0.268	0.79 ± 0.27
+Mean centered	0.754	0.264	0.75 ± 0.26
+None	0.784	0.296	0.78 ± 0.30
+Ratio A	0.024	0.06	0.02 ± 0.06
+ref-Centered	0.799	0.252	0.80 ± 0.25
+ref-Ratio A	0.22	0.245	0.22 ± 0.24
+Standardized	0.553	0.288	0.55 ± 0.29

@@ -1,0 +1,307 @@
+2018-10-23 15:10:08| Starting assess_normalization().
+2018-10-23 15:10:08| Dataset 1 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:10:31| Dataset 2 of 25.
+Number of significant surrogate variables is:  15 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:11:19| Dataset 3 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:11:42| Dataset 4 of 25.
+Number of significant surrogate variables is:  9 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:12:08| Dataset 5 of 25.
+Number of significant surrogate variables is:  5 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:12:23| Dataset 6 of 25.
+Number of significant surrogate variables is:  5 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:12:40| Dataset 7 of 25.
+Number of significant surrogate variables is:  6 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:12:57| Dataset 8 of 25.
+Number of significant surrogate variables is:  7 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:13:18| Dataset 9 of 25.
+Number of significant surrogate variables is:  2 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:13:48| Dataset 10 of 25.
+Number of significant surrogate variables is:  5 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:14:06| Dataset 11 of 25.
+Number of significant surrogate variables is:  8 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:14:33| Dataset 12 of 25.
+Number of significant surrogate variables is:  2 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:14:45| Dataset 13 of 25.
+Number of significant surrogate variables is:  7 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:15:05| Dataset 14 of 25.
+Number of significant surrogate variables is:  2 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:15:21| Dataset 15 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:15:35| Dataset 16 of 25.
+Number of significant surrogate variables is:  17 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:21:52| Dataset 17 of 25.
+Number of significant surrogate variables is:  11 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:22:45| Dataset 18 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:23:13| Dataset 19 of 25.
+Number of significant surrogate variables is:  3 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:23:26| Dataset 20 of 25.
+Number of significant surrogate variables is:  11 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:35:55| Dataset 21 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:36:18| Dataset 22 of 25.
+Number of significant surrogate variables is:  10 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:41:10| Dataset 23 of 25.
+Number of significant surrogate variables is:  9 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:41:40| Dataset 24 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:41:55| Dataset 25 of 25.
+Number of significant surrogate variables is:  6 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:42:33| Starting assess_normalization().
+2018-10-23 15:42:33| Dataset 1 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:42:46| Dataset 2 of 25.
+Number of significant surrogate variables is:  14 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:43:15| Dataset 3 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:43:31| Dataset 4 of 25.
+Number of significant surrogate variables is:  9 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:43:49| Dataset 5 of 25.
+Number of significant surrogate variables is:  5 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:44:01| Dataset 6 of 25.
+Number of significant surrogate variables is:  5 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:44:14| Dataset 7 of 25.
+Number of significant surrogate variables is:  6 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:44:27| Dataset 8 of 25.
+Number of significant surrogate variables is:  7 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:44:42| Dataset 9 of 25.
+Number of significant surrogate variables is:  2 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:45:02| Dataset 10 of 25.
+Number of significant surrogate variables is:  5 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:45:16| Dataset 11 of 25.
+Number of significant surrogate variables is:  8 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:45:34| Dataset 12 of 25.
+Number of significant surrogate variables is:  2 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:45:44| Dataset 13 of 25.
+Number of significant surrogate variables is:  7 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:45:59| Dataset 14 of 25.
+Number of significant surrogate variables is:  2 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:46:12| Dataset 15 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:46:23| Dataset 16 of 25.
+Number of significant surrogate variables is:  16 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:49:31| Dataset 17 of 25.
+Number of significant surrogate variables is:  11 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:50:06| Dataset 18 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:50:26| Dataset 19 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:50:37| Dataset 20 of 25.
+Number of significant surrogate variables is:  11 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:56:45| Dataset 21 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:57:01| Dataset 22 of 25.
+Number of significant surrogate variables is:  10 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:59:27| Dataset 23 of 25.
+Number of significant surrogate variables is:  9 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 15:59:49| Dataset 24 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 16:00:00| Dataset 25 of 25.
+Number of significant surrogate variables is:  6 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 16:00:23| Starting assess_normalization().
+2018-10-23 16:00:23| Dataset 1 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 16:03:06| Dataset 2 of 25.
+Number of significant surrogate variables is:  15 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 16:10:47| Dataset 3 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 16:15:42| Dataset 4 of 25.
+Number of significant surrogate variables is:  9 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 16:20:23| Dataset 5 of 25.
+Number of significant surrogate variables is:  5 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 16:21:53| Dataset 6 of 25.
+Number of significant surrogate variables is:  5 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 16:23:46| Dataset 7 of 25.
+Number of significant surrogate variables is:  6 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 16:26:14| Dataset 8 of 25.
+Number of significant surrogate variables is:  7 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 16:29:39| Dataset 9 of 25.
+Number of significant surrogate variables is:  3 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 16:36:28| Dataset 10 of 25.
+Number of significant surrogate variables is:  5 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 16:39:06| Dataset 11 of 25.
+Number of significant surrogate variables is:  8 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 16:44:14| Dataset 12 of 25.
+Number of significant surrogate variables is:  2 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 16:45:22| Dataset 13 of 25.
+Number of significant surrogate variables is:  7 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 16:48:44| Dataset 14 of 25.
+Number of significant surrogate variables is:  2 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 16:51:17| Dataset 15 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 16:52:53| Dataset 16 of 25.
+Number of significant surrogate variables is:  17 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 17:13:46| Dataset 17 of 25.
+Number of significant surrogate variables is:  11 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 17:21:46| Dataset 18 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 17:28:43| Dataset 19 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 17:29:54| Dataset 20 of 25.
+Number of significant surrogate variables is:  11 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 18:10:24| Dataset 21 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 18:15:29| Dataset 22 of 25.
+Number of significant surrogate variables is:  10 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 18:37:52| Dataset 23 of 25.
+Number of significant surrogate variables is:  9 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 18:43:52| Dataset 24 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 18:45:46| Dataset 25 of 25.
+Number of significant surrogate variables is:  6 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 18:52:40| Starting assess_normalization().
+2018-10-23 18:52:40| Dataset 1 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 18:55:10| Dataset 2 of 25.
+Number of significant surrogate variables is:  15 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 19:02:26| Dataset 3 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 19:07:09| Dataset 4 of 25.
+Number of significant surrogate variables is:  9 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 19:11:38| Dataset 5 of 25.
+Number of significant surrogate variables is:  5 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 19:13:05| Dataset 6 of 25.
+Number of significant surrogate variables is:  5 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 19:14:54| Dataset 7 of 25.
+Number of significant surrogate variables is:  6 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 19:17:17| Dataset 8 of 25.
+Number of significant surrogate variables is:  7 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 19:20:36| Dataset 9 of 25.
+Number of significant surrogate variables is:  3 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 19:27:17| Dataset 10 of 25.
+Number of significant surrogate variables is:  5 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 19:29:51| Dataset 11 of 25.
+Number of significant surrogate variables is:  8 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 19:34:49| Dataset 12 of 25.
+Number of significant surrogate variables is:  2 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 19:35:55| Dataset 13 of 25.
+Number of significant surrogate variables is:  7 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 19:39:11| Dataset 14 of 25.
+Number of significant surrogate variables is:  2 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 19:41:39| Dataset 15 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 19:43:11| Dataset 16 of 25.
+Number of significant surrogate variables is:  17 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 20:01:04| Dataset 17 of 25.
+Number of significant surrogate variables is:  11 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 20:08:44| Dataset 18 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 20:15:28| Dataset 19 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 20:16:36| Dataset 20 of 25.
+Number of significant surrogate variables is:  11 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 20:50:58| Dataset 21 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 20:55:58| Dataset 22 of 25.
+Number of significant surrogate variables is:  10 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:16:08| Dataset 23 of 25.
+Number of significant surrogate variables is:  9 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:21:58| Dataset 24 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:23:49| Dataset 25 of 25.
+Number of significant surrogate variables is:  6 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:30:28| Starting assess_normalization().
+2018-10-23 21:30:28| Dataset 1 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:30:46| Dataset 2 of 25.
+Number of significant surrogate variables is:  15 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:31:26| Dataset 3 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:31:45| Dataset 4 of 25.
+Number of significant surrogate variables is:  9 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:32:06| Dataset 5 of 25.
+Number of significant surrogate variables is:  5 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:32:17| Dataset 6 of 25.
+Number of significant surrogate variables is:  5 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:32:29| Dataset 7 of 25.
+Number of significant surrogate variables is:  6 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:32:42| Dataset 8 of 25.
+Number of significant surrogate variables is:  7 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:32:59| Dataset 9 of 25.
+Number of significant surrogate variables is:  2 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:33:23| Dataset 10 of 25.
+Number of significant surrogate variables is:  5 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:33:37| Dataset 11 of 25.
+Number of significant surrogate variables is:  8 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:33:59| Dataset 12 of 25.
+Number of significant surrogate variables is:  2 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:34:07| Dataset 13 of 25.
+Number of significant surrogate variables is:  7 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:34:23| Dataset 14 of 25.
+Number of significant surrogate variables is:  2 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:34:35| Dataset 15 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:34:46| Dataset 16 of 25.
+Number of significant surrogate variables is:  16 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:40:37| Dataset 17 of 25.
+Number of significant surrogate variables is:  11 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:41:23| Dataset 18 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:41:46| Dataset 19 of 25.
+Number of significant surrogate variables is:  3 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:41:55| Dataset 20 of 25.
+Number of significant surrogate variables is:  11 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:53:32| Dataset 21 of 25.
+Number of significant surrogate variables is:  3 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:53:49| Dataset 22 of 25.
+Number of significant surrogate variables is:  10 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:58:19| Dataset 23 of 25.
+Number of significant surrogate variables is:  9 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:58:44| Dataset 24 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:58:55| Dataset 25 of 25.
+Number of significant surrogate variables is:  6 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:59:25| Starting assess_normalization().
+2018-10-23 21:59:25| Dataset 1 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:59:34| Dataset 2 of 25.
+Number of significant surrogate variables is:  15 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 21:59:57| Dataset 3 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 22:00:08| Dataset 4 of 25.
+Number of significant surrogate variables is:  9 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 22:00:21| Dataset 5 of 25.
+Number of significant surrogate variables is:  5 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 22:00:29| Dataset 6 of 25.
+Number of significant surrogate variables is:  5 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 22:00:37| Dataset 7 of 25.
+Number of significant surrogate variables is:  6 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 22:00:46| Dataset 8 of 25.
+Number of significant surrogate variables is:  7 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 22:00:57| Dataset 9 of 25.
+Number of significant surrogate variables is:  2 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 22:01:12| Dataset 10 of 25.
+Number of significant surrogate variables is:  5 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 22:01:21| Dataset 11 of 25.
+Number of significant surrogate variables is:  8 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 22:01:34| Dataset 12 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 22:01:41| Dataset 13 of 25.
+Number of significant surrogate variables is:  7 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 22:01:51| Dataset 14 of 25.
+Number of significant surrogate variables is:  2 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 22:02:00| Dataset 15 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 22:02:07| Dataset 16 of 25.
+Number of significant surrogate variables is:  16 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 22:04:59| Dataset 17 of 25.
+Number of significant surrogate variables is:  11 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 22:05:24| Dataset 18 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 22:05:38| Dataset 19 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 22:05:45| Dataset 20 of 25.
+Number of significant surrogate variables is:  11 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 22:11:25| Dataset 21 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 22:11:36| Dataset 22 of 25.
+Number of significant surrogate variables is:  10 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 22:13:49| Dataset 23 of 25.
+Number of significant surrogate variables is:  9 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 22:14:04| Dataset 24 of 25.
+Number of significant surrogate variables is:  4 
+Iteration (out of 5 ):1  2  3  4  5  2018-10-23 22:14:12| Dataset 25 of 25.
+Number of significant surrogate variables is:  6 
+Iteration (out of 5 ):1  2  3  4  5  
