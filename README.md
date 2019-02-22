@@ -1,5 +1,7 @@
 # Batch Adjustment by Reference Alignment (BARA): Improved prediction performance in biological test sets with batch effects
 
+A development r-package implementing the BARA algorithm can be found at [robingradin/bara](https://github.com/robingradin/bara)
+
 ## About
 Batch effects are a common problem associated with biological data acquisition techniques.
 They are especially troublesome in predictive settings were fixed training sets are used
